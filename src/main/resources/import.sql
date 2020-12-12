@@ -8,3 +8,5 @@ INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Jose Sar
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Toni Morrison', '10219344681', 10000.0, TIMESTAMP WITH TIME ZONE '1940-02-23T07:00:00Z', 0);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Yuval Noah Harari', '10619244881', 1500.0, TIMESTAMP WITH TIME ZONE '1956-09-23T07:00:00Z', 0);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Chimamanda Adichie', '10114274861', 1500.0, TIMESTAMP WITH TIME ZONE '1956-09-23T07:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Silvio Almeida', '10164334861', 4500.0, TIMESTAMP WITH TIME ZONE '1970-09-23T07:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Jorge Amado', '10204374161', 2500.0, TIMESTAMP WITH TIME ZONE '1918-09-23T07:00:00Z', 0);
